@@ -1,0 +1,17 @@
+{
+  "name": "maildemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayush kumar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.17.1",
+    "express-mailer": "^0.3.1",
+    "jade": "^1.11.0"
+  }
+}
